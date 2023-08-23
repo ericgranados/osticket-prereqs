@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 	<li>Install / Enable IIS in Windows WITH CGI and Common HTTP Features</li>
 	<li>World Wide Web Services -> Application Development Features</li>
 	 </ul>
-<img src="https://github.com/ericgranados/osticket-prereqs/blob/main/IIS-CGI.gif.gif"/>
+<img src="https://github.com/ericgranados/osticket-prereqs/blob/main/IIS-CGI.gif.gif" height="200px" width="300px"/>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
